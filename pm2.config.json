@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "RealWord-nuxtjs",
+      "script": "npm",
+      "args": "start"
+    }
+  ]
+}
